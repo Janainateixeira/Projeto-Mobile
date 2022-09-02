@@ -12,3 +12,4 @@ var recursoExtra = 'avanço automatico'; //string (string)
 var sistemaAvanco = 'Botão traseiro'; //string (string)
 var marca = 'BIC Velocity Grip'; //string (string)
 var cor = 'azul'; //string (string)
+//
